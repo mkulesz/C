@@ -1,0 +1,14 @@
+#include<stdio.h>
+#define n
+#define k
+#define p
+main(){
+float a[n][k], b[k][p], c[n][p];
+
+for(i=0; i<n; i++){
+ for(j=0; j<k; j++){
+  printf("podaj a[%i][%i]";i,j)
+  scanf("%f",&a[i][j])
+  }
+}
+

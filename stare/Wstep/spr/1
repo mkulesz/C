@@ -1,0 +1,11 @@
+#inclue<stdio.h>
+main(){
+ int n, i, tab[n], suma;
+ for(i=0; i<n; i++) {
+  scanf("%i", &tab[i]);
+  }
+ suma=0
+ for(i=0; i<n; i++) {
+  suma=suma+tab[i]
+  }
+ }
