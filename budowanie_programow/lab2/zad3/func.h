@@ -1,2 +1,2 @@
-int wczytaj_wiek(void);
-unsigned long long przelicznik(int n);
+int wczytaj (void);
+unsigned long long przelicznik (int n);
